@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    
+        <title>
+            Aplicație Quizz
+        </title>
+        <meta name="viewpoint" content="witdth=device-width, initial-sclae=1">
+    </head>
+    <link rel="stylesheet" href="quizz.css">
+    <body>
+        <div class="home-box custom-box">
+             <head><h3>Instrucțiuni:</h3>
+            <p>Numărul total de întrebări: <span class="total-question">10</span></p>
+            <button type="button" class="btn" onclick="startQuiz()">Start</button>
+        </div>
+        <div class="quiz-box custom-box hide">
+        <div class="question-number">
+            
+        </div>
+        <div class="question-text">
+        </div>
+        <div class="option-container">
+        </div>
+        <div class="next-question-btn">
+        <button type="button" class="btn" onclick="next()">Următorul</button>
+            </div>
+        <div class="answers-indicator">
+        </div>
+        </div>
+        <div class="result-box custom-box hide">
+<h1>Rezultate</h1>
+<table>
+    <tr>
+        <td>Întrebări totale</td>
+        <td><span class="total-question"></span></td>
+    </tr>
+    <tr>
+        <td>Încercări</td>
+        <td><span class="total-attempt"></span></td>
+    </tr>
+    <tr>
+        <td>Corecte</td>
+        <td><span class="total-correct"></span></td>
+    </tr>
+    <tr>
+        <td>Greșite</td>
+        <td><span class="total-greșit"></span></td>
+    </tr>
+    <tr>
+        <td>Procentaj</td>
+        <td><span class="percentage"></span></td>
+    </tr>
+    <tr>
+        <td>Scorul tău total</td>
+        <td><span class="total-score"></span></td>
+    </tr>
+</table>
+<button type="button" class="btn" onclick="tryAgainQuiz()">Încearcă din nou</button>
+<button type="button" class="btn" onclick="backToHome()">Mergi acasă</button>
+        </div>
+        <script src="question.js"></script>
+        <script src="app.js"></script>
+    </body>
+</html>

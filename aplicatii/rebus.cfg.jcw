@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jcross-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>amy</dc:creator>
+    <dc:title>Rebus</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>Rebus</title>
+
+
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer><reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<crossword>
+<grid><row><cell></cell><cell></cell><cell></cell><cell>S</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>U</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>M</cell><cell>A</cell><cell>R</cell><cell>E</cell><cell>A</cell><cell>B</cell><cell>R</cell><cell>I</cell><cell>T</cell><cell>A</cell><cell>N</cell><cell>I</cell><cell>E</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>P</cell><cell></cell><cell>A</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>R</cell><cell></cell><cell>S</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>O</cell><cell></cell><cell>I</cell><cell>N</cell><cell>V</cell><cell>E</cell><cell>N</cell><cell>T</cell><cell>I</cell><cell>E</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>L</cell><cell></cell><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>U</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>O</cell><cell>R</cell><cell>I</cell><cell>E</cell><cell>N</cell><cell>T</cell><cell></cell><cell>R</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>G</cell><cell></cell><cell>L</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>I</cell><cell></cell><cell>W</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>E</cell><cell></cell><cell></cell><cell></cell><cell>E</cell><cell>N</cell><cell>I</cell><cell>A</cell><cell>C</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>G</cell><cell></cell><cell>T</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>T</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></grid>
+
+<clues><item><word>MAREABRITANIE</word><def>&amp;#x021A;ara unde a &amp;#x00EE;nceput revolu&amp;#x021B;ia industrial&amp;#x0103;.</def></item><item><word>INVENTIE</word><def>Un lucru nou, al c&amp;#x0103;rui creator se nume&amp;#x0219;te inventator.</def></item><item><word>ORIENT</word><def>Numele expresului care lega Constantinopolul de Paris.</def></item><item><word>ENIAC</word><def>Primul calculator electronic programabil.</def></item><item><word>SUA</word><def>Stat care &amp;#x00EE;n urma celei de a doua revolu&amp;#x021B;ie industrial&amp;#x0103; &amp;#x0219;i-a consolidat statutul de mare putere</def></item><item><word>MASINILE</word><def>Automobilele sinonim.</def></item><item><word>PROLOG</word><def>Un limbaj de programare logic&amp;#x0103; ap&amp;#x0103;rut &amp;#x00EE;n Genera&amp;#x021B;ia 5 a calculatoarelor electronice.</def></item><item><word>TURING</word><def>Numele inventatorului ma&amp;#x0219;inii automate.</def></item><item><word>WATT</word><def>Numele inventatorului motorului cu aburi.</def></item></clues>
+</crossword>
+</data>
+
+<hotpot-config-file>
+<jcross>
+<exercise-subtitle>Rebus revolu&amp;#x021B;ia industrial&amp;#x0103;.</exercise-subtitle>
+<instructions>Completeaz&amp;#x0103; rebusul, apoi apas&amp;#x0103; pe &quot;Verific&amp;#x0103;&quot; pentru a-&amp;#x021B;i verifica r&amp;#x0103;spunsurile. Dac&amp;#x0103; te-ai blocat, po&amp;#x021B;i s&amp;#x0103; ape&amp;#x0219;i pe &quot;Indiciu&quot; pentru a primi o liter&amp;#x0103;. Apas&amp;#x0103; pe un num&amp;#x0103;r din gril&amp;#x0103; pentru a putea vedea indiciul pentru acel num&amp;#x0103;r.</instructions>
+<guess-correct>Corect! Bravo!</guess-correct>
+<guess-incorrect>Ai gre&amp;#x0219;it c&amp;#x00E2;teva r&amp;#x0103;spunsuri.</guess-incorrect>
+<clues-across>Orizontal:</clues-across>
+<clues-down>Vertical:</clues-down>
+<next-correct-letter>Ai ad&amp;#x0103;ugat o liter&amp;#x0103; corect&amp;#x0103;.</next-correct-letter>
+<include-keypad>0</include-keypad>
+<include-clue-list>0</include-clue-list>
+<enter-caption>Introduce</enter-caption>
+<include-hint>1</include-hint>
+<case-sensitive>0</case-sensitive>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<separate-javascript-file>0</separate-javascript-file>
+</jcross>
+
+<global>
+<your-score-is>Scorul t&amp;#x0103;u este:</your-score-is>
+<check-caption>Verific&amp;#x0103;</check-caption>
+<ok-caption>OK</ok-caption>
+<hint-caption>Indiciu</hint-caption>
+<keypad-characters></keypad-characters>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>0</include-next-ex>
+<include-contents>0</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Georgia</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#d77b64</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#ffffff</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#ff9c6c</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jcross-file>

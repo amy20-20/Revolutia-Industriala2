@@ -1,0 +1,23 @@
+*** Question List ***
+Q.1: Ce fel de revoluție a fost revoluția industrială?
+        option 0: O revoluție de tip politic.
+        option 1: Un război civil.
+        option 2: O revoluție ce a creat o nouă economie cu caracter industrial și o civilizație specifică.
+        option 3: Niciuna dintre aceste opțiuni.
+Q.2: Cine a inventat mașina cu aburi?
+        option 0: James Watt
+        option 1: George Stephenson
+        option 2: Thomas Edison
+        option 3: Niciuna dintre aceste opțiuni.
+
+Q.3: Câte revoluții industriale există?
+        option 0: 1
+        option 1: 2
+        option 2: 3
+        option 3: 4
+
+Q.4: Care dintre aceste invenți/inovați/cercetări nu a aparținut celei de a doua Revoluție Industrială?
+        option 0: Studiul atomului.
+        option 1: Electricitatea.
+        option 2: Descoperirea radiului.
+        option 3: Toate au aparținut.
